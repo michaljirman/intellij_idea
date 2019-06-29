@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>cardload.feature</mask>
+    <mask>*.txt</mask>
+    <mask>requirements.txt</mask>
+    <mask>*.feature</mask>
+    <mask>*.rb</mask>
+    <mask>*.py</mask>
+    <mask>*.key</mask>
+    <mask>gen_model</mask>
+    <mask>*.xlxs</mask>
+    <mask>*.yml</mask>
+    <mask>*.go</mask>
+    <mask>*.sql</mask>
+  </component>
+</application>
