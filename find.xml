@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>*.txt</mask>
     <mask>requirements.txt</mask>
     <mask>*.feature</mask>
-    <mask>*.py</mask>
     <mask>*.key</mask>
     <mask>gen_model</mask>
     <mask>*.xlxs</mask>
@@ -25,5 +25,6 @@
     <mask>*.go</mask>
     <mask>*.rb</mask>
     <mask>client.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
