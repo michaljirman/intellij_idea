@@ -25,5 +25,6 @@
     <mask>*.py</mask>
     <mask>*.rb</mask>
     <mask>*.go</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
