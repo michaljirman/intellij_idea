@@ -24,7 +24,7 @@
     <mask>client.py</mask>
     <mask>*.py</mask>
     <mask>*.rb</mask>
-    <mask>*.go</mask>
     <mask>*.csv</mask>
+    <mask>*.go</mask>
   </component>
 </application>
