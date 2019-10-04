@@ -10,6 +10,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="apigatewaysvc" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="clouddataprovider" type="PLAIN_TEXT" />
       <mapping pattern="add_pk_charge_limits_history.sql" type="SQL" />
       <mapping pattern="ProvisioningClusterAutoscaler" type="YAML" />
